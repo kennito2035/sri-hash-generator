@@ -78,5 +78,5 @@ No data is sent anywhere beyond the initial download request.
 **Colors not showing**  
 - Requires Windows 10 build 1511 or later with a terminal that supports ANSI (Command Prompt, Windows Terminal, PowerShell)
 
-**Hash doesn't match another tool**  
-- Make sure you're hashing the exact same file. Even a single byte difference (e.g. a CDN serving different content per region) will produce a different hash.
+**Hash mismatch**  
+- Make sure you're hashing the same file. Even a single byte difference (e.g. a CDN serving different content per region) will produce a different hash.
