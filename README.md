@@ -54,7 +54,9 @@ Paste the hash into the `integrity` attribute of a `<script>` or `<link>` tag:
 ```
 
 > **Which algorithm should I use?**  
-> `sha384` is the most widely recommended. `sha512` is the strongest. `sha256` is broadly supported but the weakest of the three. All three are output so you can choose.
+> `sha384` is the most widely recommended.
+`sha512` is the strongest.
+`sha256` is broadly supported but the weakest of the three. All three are output so you can choose.
 
 ---
 
