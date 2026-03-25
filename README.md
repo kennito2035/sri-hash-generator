@@ -1,4 +1,4 @@
-# SRI Hash Generator v1.0.0
+# SRI Hash Generator
 
 A lightweight Windows batch utility that downloads a file from a URL and outputs its **SHA-256**, **SHA-384**, and **SHA-512** [Subresource Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) hashes — ready to paste directly into a `<script>` or `<link>` tag.
 
